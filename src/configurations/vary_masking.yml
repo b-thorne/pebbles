@@ -1,0 +1,15 @@
+SIMSETS:
+ - simset1
+COSMOLOGIES:
+ - planck2015_AL0p5
+INSTRUMENTS:
+ - SO_11
+FITTING_MODELS:
+ - BdBs_ns0
+LIKELIHOODS:
+ - prim+lens-no-marg
+POWERS:
+ - nlb10_yp_galmask0_aposcale10
+ - nlb10_yp_galmask1_aposcale25
+ - nlb10_yp_galmask2_aposcale25
+ - nlb10_yp_galmask3_aposcale25

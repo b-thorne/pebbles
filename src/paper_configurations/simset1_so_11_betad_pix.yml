@@ -1,0 +1,19 @@
+SIMSETS:
+ - simset1
+COSMOLOGIES:
+ - planck2015_AL0p5
+INSTRUMENTS:
+ - SO_11
+FITTING_MODELS:
+ - BdBs_ns0
+ - BdBs_comm_betad_binned_npix04
+ - BdBs_comm_betad_binned_npix12
+LIKELIHOODS:
+ - prim+lens-no-marg
+POWERS:
+ - nlb10_yp_galmask4_aposcale25
+title: '${\rm simset 1}, \ {\rm opt. \ baseline}$'
+labels:
+ - '1'
+ - '4'
+ - '12'
